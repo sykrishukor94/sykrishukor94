@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shuk @sykrishukor
-- 👀 I’m currently a researcher at Genocea developing immunotherapies
+- 👀 I’m currently a researcher at Genocea developing immunotherapies. When I'm not in lab, I am analyzing biological data for internal and external use
 - 🌱 I’m currently learning data science, focusing on R, Python, and MySQL. Eventually I'd like to transition into Data Analyst/Data Scientist positions, focusing on my niche and expertise in biotech and healthcare
 - 💞️ I’m looking to collaborate on Biostatistics/Bioinformatics projects (NGS data, immunogenicity data, algorithm development, statistical tools).
 - 📫 Drop me an email at sykrishukor@gmail.com or DM me at https://www.linkedin.com/in/syukri-shukor-a273b3ab/
