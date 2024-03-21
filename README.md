@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shuk @sykrishukor
 - 👀 I’m currently a Genomic Data Scientist at Bionano developing, applying, and teaching three proprietary software platforms on optical genome mapping for genetic malignancies.
-- 🌱 I’m entrenched in biotech and life sciences, focusing on data science, with expertise in R, Python, and MySQL. Excited working as Data Scientist/Bioinformatics/Data Analyst/Data Engineer roles
+- 🌱 I’m entrenched in biotech and life sciences, focusing on data science, with expertise in R, Python, and MySQL. Excited working in Data Scientist/Bioinformatics/Data Analyst/Data Engineer roles
 - 💞️ I’m looking to collaborate on Biostatistics/Bioinformatics projects (Optical Genome Mapping, NGS data, immunogenicity data, algorithm development, statistical tools).
 - 📫 Drop me an email at sykrishukor@gmail.com or DM me at https://www.linkedin.com/in/syukri-shukor-a273b3ab/
 
